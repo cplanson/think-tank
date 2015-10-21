@@ -2,7 +2,6 @@
 
 def max_subArray(l):
 	beginning = 0
-	end = 0
 	sum = 0
 	maxBeginning = 0
 	maxEnd = 0
